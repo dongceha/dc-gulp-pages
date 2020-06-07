@@ -1,0 +1,36 @@
+{
+  "name": "dc-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "dc-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/dongceha/dc-pages#readme",
+  "bugs": {
+    "url": "https://github.com/dongceha/dc-pages/issues"
+  },
+  "license": "MIT",
+  "author": "dongceha <524970335@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongceha/dc-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
